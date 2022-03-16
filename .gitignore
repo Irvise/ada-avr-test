@@ -3,3 +3,11 @@
 
 # Ada Library Information
 *.ali
+
+# Compiled files
+*.eep
+*.elf
+*.hex
+
+# Compile directory
+*obj/
